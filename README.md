@@ -1,5 +1,4 @@
-# Challenge for the QEC Hackathon 2023 at ETH Zurich
-# CQC
+# Challenge for the QEC Hackathon 2023 at ETH Zurich - CQC
 
 ## Summary
 We can use quantum computers to help us with machine learning. By utilizing variational quantum circuits, we can use quantum computers to learn patterns in data.
