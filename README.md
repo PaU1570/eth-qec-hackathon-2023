@@ -12,7 +12,7 @@ This repository contains a Jupyter Notebook that walks you through the basic ide
 
 ## What we did
 - Implemented the Tic-Tac-Toe Quantum Machine Learning model for an arbitrary number of layers, with or without including drawn positions, and with and without leveraging the symmetry of the problem.
-- Implemented a similar model to find whether there exists a path between any two corners of a 3x3 maze, with and without leveraging the symmetry.
+- Implemented a similar model to find whether there exists a path between any two corners of a 3x3 maze, with and without leveraging the symmetry. The symmetric version also implements a noise model.
 - Implemented the same for a 5x5 maze, however, takes too long to run (it's hard to simulate 25 qubits).
 
 ## Files
