@@ -15,3 +15,5 @@ This repository contains a Jupyter Notebook that walks you through the basic ide
 - Implemented a similar model to find whether there exists a path between any two corners of a 3x3 maze, with and without leveraging the symmetry.
 - Implemented the same for a 5x5 maze, however, takes too long to run (it's hard to simulate 25 qubits).
 
+## Files
+- <code>hackhathon_notebook_layers</code> implements the Tic-Tac-Toe model for an arbitray number of layers, with or without draws, using the symmetry of the problem.
