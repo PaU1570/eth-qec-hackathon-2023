@@ -9,3 +9,9 @@ One approach is taken in [this paper](https://journals.aps.org/prxquantum/abstra
 
 ## What's inside
 This repository contains a Jupyter Notebook that walks you through the basic idea of constructing a circuit that utilizes the problem symmetry and applies it to Tic-Tac-Toe.
+
+## What we did
+- Implemented the Tic-Tac-Toe Quantum Machine Learning model for an arbitrary number of layers, with or without including drawn positions, and with and without leveraging the symmetry of the problem.
+- Implemented a similar model to find whether there exists a path between any two corners of a 3x3 maze, with and without leveraging the symmetry.
+- Implemented the same for a 5x5 maze, however, takes too long to run (it's hard to simulate 25 qubits).
+
