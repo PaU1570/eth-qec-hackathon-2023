@@ -17,3 +17,8 @@ This repository contains a Jupyter Notebook that walks you through the basic ide
 
 ## Files
 - <code>hackhathon_notebook_layers</code> implements the Tic-Tac-Toe model for an arbitray number of layers, with or without draws, using the symmetry of the problem.
+- <code>hackhathon_notebook_non_symmetric_layers</code> implements the Tic-Tac-Toe model for an arbitray number of layers, with or without draws, without using the symmetry of the problem.
+- <code>Maze-Symmetric</code> implements the 3x3 maze model with symmetry.
+- <code>Maze-Non_symmetric</code> implements the 3x3 maze model without symmetry.
+- <code>BigMaze-Symmetric</code> implements the 5x5 maze with symmetry.
+- <code>utils.py</code>, <code>maze.py</code>, and <code>bigmaze.py</code> are helper files containing useful functions.
